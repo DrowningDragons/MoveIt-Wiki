@@ -2,4 +2,4 @@
 
 Here you will find documentation and written tutorials
 
-COMING SOON
+Access the wiki: https://github.com/DrowningDragons/MoveIt-Wiki/wiki
